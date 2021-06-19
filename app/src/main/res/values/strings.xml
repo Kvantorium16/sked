@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Sked</string>
-    <string name="title_activity_dbactivity">Отладочное окно</string>
+    <string name="title_activity_dbactivity">DBActivity</string>
 </resources>
